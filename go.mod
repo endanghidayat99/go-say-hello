@@ -1,4 +1,3 @@
-module github.com/endanghidayat99/go-say-hello/v2
+module github.com/endanghidayat99/go-say-hello
 
 go 1.18
-
